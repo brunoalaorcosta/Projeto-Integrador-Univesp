@@ -1,0 +1,25 @@
+.form{
+    width: 100%;
+    margin: 2em 0;
+}
+
+.fileUpload {
+    margin-bottom: 20px;
+}
+
+.fileUpload input[type="file"] {
+    display: none;
+}
+
+.fileUpload label {
+    display: inline-block;
+    padding: 8px 12px;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.fileUpload label:hover {
+    background-color: #0056b3;
+}

@@ -1,0 +1,31 @@
+.home_container {
+  position: relative;
+  width: 100%;
+}
+
+.slider_container {
+  margin: 0 auto; /* Centraliza horizontalmente */
+  max-width: 800px; /* Define a largura máxima */
+}
+
+.image_wrapper {
+  text-align: center; /* Centraliza a imagem */
+}
+
+.image_wrapper img {
+  max-width: 100%; /* Define a largura máxima */
+  max-height: 400px; /* Define a altura máxima */
+  margin: 0 auto; /* Centraliza horizontalmente */
+  margin-top: 5px;
+}
+
+.button_container {
+  position: absolute;
+  top: 20px; /* Distância do topo */
+  right: 20px; /* Distância da direita */
+}
+
+.map_container {
+  margin-top: 2em;
+  text-align: center;
+}
